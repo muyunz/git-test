@@ -4,5 +4,4 @@ do
    git add -A
    git commit -am "$i"
    git push -u origin master
-   sleep 10
 done
